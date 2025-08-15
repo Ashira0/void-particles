@@ -1,7 +1,6 @@
-# Void Particles — Interactive Canvas Animation
+# Water Current Particles — Interactive Canvas Animation
 
-High-quality canvas animation that creates a visually pleasing space effect using curl noise and particle flow. 
-It is fully interactive with click and drag to stir the flow of each particle, with continuous movement the effect is meant to last endlessly.
+High-quality canvas animation that creates a visually pleasing water current effect using curl noise and particle flow. It is fully interactive with click and drag to stir the flow of each particle, with continuous movement the effect is meant to last endlessly.
 
 ## Live Demo
 [View on GitHub Pages](https://Ashira0.github.io/void-particles/)
